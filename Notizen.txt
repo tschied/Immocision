@@ -1,0 +1,7 @@
+In VS Code, wenn Scripte nicht ausgeführt werden können:
+> Set-ExecutionPolicy -Scope CurrentUser Unrestricted
+
+Start virtual environment in VS Code Terminal:
+> .\myvenv\Scripts\activate.ps1
+
+und erledigt
