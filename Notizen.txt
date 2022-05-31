@@ -1,7 +1,25 @@
+https://tutorial.djangogirls.org
+https://pimylifeup.com/download-raspbian/
+https://pimylifeup.com/raspberry-pi-django/
+
 In VS Code, wenn Scripte nicht ausgeführt werden können:
 > Set-ExecutionPolicy -Scope CurrentUser Unrestricted
 
 Start virtual environment in VS Code Terminal:
 > .\myvenv\Scripts\activate.ps1
 
-und erledigt
+
+
+$ git init
+
+Initialized empty Git repository in ~/djangogirls/.git/
+$ git config --global user.name "tschied"
+$ git config --global user.email t1001@schied.net
+
+Davor noch .gitignore anfertigen
+
+$ git status
+
+$ git add .
+
+$ git commit -m "Meine Django-Girls-App, erster Commit"
